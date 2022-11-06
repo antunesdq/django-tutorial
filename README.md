@@ -1,6 +1,8 @@
 # django-tutorial
 Django tutorial I wrote for the future me and other devs who can find it useful :)
 
+On this one we will see how to create a very simples Django project, we will also create an html file and serve it using django itself(for now).
+
 1. Create git repo.
 2. Clone git repo:
     ```git
